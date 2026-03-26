@@ -4,6 +4,9 @@ A lightweight add-on for BirdNET-Pi that displays real-time bird detection stati
 
 This project reads directly from the BirdNET-Pi SQLite database and renders key daily stats to a low-power ePaper display — perfect for a clean, always-on “bird activity dashboard”.
 
+Throw all of this into this case and you'll be set with a portable unit!
+https://makerworld.com/en/models/1336154-portable-pi-sdr-case
+
 - Features
 	- Last Detected Species
 	- Top Species of the Day (Top 3 or Top 5)
